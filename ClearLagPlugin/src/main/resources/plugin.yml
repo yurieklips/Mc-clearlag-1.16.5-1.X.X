@@ -1,0 +1,8 @@
+name: ClearLag
+version: 1.0
+main: com.example.clearlag.ClearLag
+api-version: 1.16
+commands:
+  clearlag:
+    description: Supprime les objets au sol et les entités hostiles pour réduire le lag.
+    usage: /<command>
